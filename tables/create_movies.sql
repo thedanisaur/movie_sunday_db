@@ -8,3 +8,14 @@ CREATE TABLE movies (
         REFERENCES series (series_name) MATCH SIMPLE
         ON UPDATE NO ACTION ON DELETE NO ACTION
 );
+
+DROP TRIGGER IF EXISTS bi_movies;
+CREATE TRIGGER bi_movies BEFORE INSERT ON movies FOR EACH ROW
+BEGIN
+    DECLARE SERIES_CREATED date;
+    SET SERIES_CREATED = (SELECT series_created_on FROM series WHERE series_name = NEW.series_name);
+
+    IF NEW.movie_created_on IS NULL OR SERIES_CREATED > NEW.movie_created_on THEN
+      SET NEW.movie_created_on = SERIES_CREATED;
+    END IF;
+END;
