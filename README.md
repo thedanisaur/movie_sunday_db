@@ -1,4 +1,4 @@
-# Movie Sunday
+# Movie Sunday Database
 
 Star Wars is bad.
 
