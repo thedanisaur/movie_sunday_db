@@ -317,5 +317,5 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier_2', 'terrifier', 'Terrifier 2', '2022-12-01');
 
 /* IT */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_part_1', 'it', 'IT: Part 1', '2023-01-10');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_part_2', 'it', 'IT: Part 2', '2023-01-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_1', 'it', 'IT: Chapter 1', '2023-01-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_2', 'it', 'IT: Chapter 2', '2023-01-10');

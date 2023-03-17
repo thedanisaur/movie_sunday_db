@@ -548,7 +548,7 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'terrifier_2', 'GOO
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'terrifier_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* IT */
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_part_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_part_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_part_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_part_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_chapter_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_chapter_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_chapter_2', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'it_chapter_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
