@@ -317,5 +317,25 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier_2', 'terrifier', 'Terrifier 2', '2022-12-01');
 
 /* IT */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_1', 'it', 'IT: Chapter 1', '2023-01-10');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_2', 'it', 'IT: Chapter 2', '2023-01-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_1', 'it', 'IT: Chapter 1', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_2', 'it', 'IT: Chapter 2', '2023-01-01');
+
+/* Taken */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('taken', 'taken', 'Taken', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('taken_2', 'taken', 'Taken', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('taken_3', 'taken', 'Taken', '2023-01-01');
+
+/* Top Gun */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun', 'top_gun', 'Top Gun', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun_maverick', 'top_gun', 'Top Gun: Maverick', '2023-01-01');
+
+/* Robocop */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_1', 'robocop', 'Robocop', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_2', 'robocop', 'Robocop 2', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_3', 'robocop', 'Robocop 3', '2023-01-01');
+
+/* Men in Black */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_1', 'men_in_black', 'Men in Black', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_2', 'men_in_black', 'Men in Black II', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_3', 'men_in_black', 'Men in Black 3', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_international', 'men_in_black', 'Men in Black: International', '2023-01-01');
