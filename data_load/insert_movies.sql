@@ -222,8 +222,9 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 
 /* John Wick */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick', 'john_wick', 'John Wick', '2019-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick_2', 'john_wick', 'John Wick 2', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick_3', 'john_wick', 'John Wick 3', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick_2', 'john_wick', 'John Wick: Chapter 2', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick_3', 'john_wick', 'John Wick: Chapter 3 - Parabellum', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('john_wick_4', 'john_wick', 'John Wick: Chapter 4', '2020-01-01');
 
 /* Train to Busan */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('train_to_busan', 'train_to_busan', 'Train to Busan', '2020-01-01');
