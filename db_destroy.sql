@@ -4,6 +4,7 @@ DROP VIEW IF EXISTS bad_votes_vw;
 DROP VIEW IF EXISTS good_votes_vw;
 DROP VIEW IF EXISTS movies_votes_vw;
 DROP VIEW IF EXISTS movies_in_series_vw;
+DROP VIEW IF EXISTS series_image_vw;
 
 DROP TABLE IF EXISTS movies_images;
 DROP TABLE IF EXISTS images;

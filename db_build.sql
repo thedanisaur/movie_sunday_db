@@ -10,6 +10,7 @@ source ./tables/create_images.sql
 source ./tables/create_movies_images.sql
 -- Views
 source ./views/create_movies_images_vw.sql
+source ./views/create_series_image_vw.sql
 source ./views/create_movies_in_series_vw.sql
 source ./views/create_movies_votes_vw.sql
 source ./views/create_good_votes_vw.sql

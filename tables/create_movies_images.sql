@@ -5,7 +5,7 @@ CREATE TABLE movies_images (
     , movie_image_created_on DATE NOT NULL
     , movie_image_updated_on DATE
 
-    , UNIQUE (movie_name, image_id)
+    , UNIQUE (movie_name)
     
     , CONSTRAINT movies_images_movie_name_fkey FOREIGN KEY (movie_name)
         REFERENCES movies (movie_name) MATCH SIMPLE

@@ -8,4 +8,5 @@ AS
   FROM  movies_images mi
   INNER JOIN images i ON
     mi.image_id = i.image_id
+  ORDER BY mi.movie_name ASC
 ;
