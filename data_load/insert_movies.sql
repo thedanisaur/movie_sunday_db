@@ -308,8 +308,8 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 
 /* Starship Troopers */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers', 'starship_troopers', 'Starship Troopers', '2022-11-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_2', 'starship_troopers', 'Starship Troopers: Hero of the Federation', '2022-11-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_3', 'starship_troopers', 'Starship Troopers: Maurader', '2022-11-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_2', 'starship_troopers', 'Starship Troopers 2: Hero of the Federation', '2022-11-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_3', 'starship_troopers', 'Starship Troopers 3: Maurader', '2022-11-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_4', 'starship_troopers', 'Starship Troopers: Invasion', '2022-11-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers_5', 'starship_troopers', 'Starship Troopers: Traitor of Mars', '2022-11-01');
 
