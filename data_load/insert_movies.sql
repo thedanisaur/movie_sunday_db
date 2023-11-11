@@ -54,7 +54,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('death_note', 'death_note', 'Death Note', '2016-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('death_note_2', 'death_note', 'Death Note 2', '2016-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('l_change_the_world', 'death_note', 'L: Change the World', '2017-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('light_up_the_new_world', 'death_note', 'Deathnote: Light Up the New World', '2022-09-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('light_up_the_new_world', 'death_note', 'Death Note: Light Up the New World', '2022-09-01');
 
 /* Terminator */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terminator', 'terminator', 'Terminator', '2016-01-01');
