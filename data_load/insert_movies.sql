@@ -31,9 +31,9 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_iv', 'saw', 'Saw IV', '2015-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_v', 'saw', 'Saw V', '2015-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_vi', 'saw', 'Saw VI', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_the_final_chapter', 'saw', 'Saw: The Final Chapter (Saw 3D)', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_legacy', 'saw', 'Saw Legacy (Jigsaw)', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spiral', 'saw', 'Spiral: From the Book of Saw', '2022-09-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_the_final_chapter', 'saw', 'Saw 3D', '2015-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_legacy', 'saw', 'Jigsaw', '2015-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spiral', 'saw', 'Spiral', '2022-09-01');
 
 /* Alien */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('alien', 'alien', 'Alien', '2015-01-01');
