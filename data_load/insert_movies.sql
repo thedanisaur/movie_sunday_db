@@ -299,12 +299,12 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 
 /* Tremors */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_1', 'tremors', 'Tremors', '2022-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_2', 'tremors', 'Tremors 2: Aftershocks', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_2', 'tremors', 'Tremors II: Aftershocks', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_3', 'tremors', 'Tremors 3: Back to Perfection', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_4', 'tremors', 'Tremors 4: The Legend Begins', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_5', 'tremors', 'Tremors 5: Bloodlines', '2022-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_6', 'tremors', 'Tremors 6: Cold Day in Hell', '2022-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_7', 'tremors', 'Tremors 7: Shrieker Island', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_6', 'tremors', 'Tremors: A Cold Day in Hell', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tremors_7', 'tremors', 'Tremors: Shrieker Island', '2022-01-01');
 
 /* Starship Troopers */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('starship_troopers', 'starship_troopers', 'Starship Troopers', '2022-11-01');
