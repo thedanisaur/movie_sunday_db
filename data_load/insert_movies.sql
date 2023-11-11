@@ -1,38 +1,38 @@
 /* Star Wars */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_new_hope', 'star_wars', 'A New Hope', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('empire_strikes_back', 'star_wars', 'Empire Strikes Back', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('return_of_the_jedi', 'star_wars', 'Return of the Jedi', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('phantom_menace', 'star_wars', 'Phantom Menace', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('attack_of_the_clones', 'star_wars', 'Attack of the Clones', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('revenge_of_the_sith', 'star_wars', 'Revenge of the Sith', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('caravan_of_courage', 'star_wars', 'Caravan of Courage', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('battle_for_endor', 'star_wars', 'Battle for Endor', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_christmas_special', 'star_wars', 'A Christmas Special', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_force_awakens', 'star_wars', 'The Force Awakens', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('rogue_one', 'star_wars', 'Rouge One', '2015-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_last_jedi', 'star_wars', 'The Last Jedi', '2016-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('solo', 'star_wars', 'Solo', '2017-07-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_rise_of_skywalker', 'star_wars', 'The Rise of Skywalker', '2019-07-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_new_hope', 'star_wars', 'A New Hope', '2015-07-04');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('empire_strikes_back', 'star_wars', 'Empire Strikes Back', '2015-07-05');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('return_of_the_jedi', 'star_wars', 'Return of the Jedi', '2015-07-11');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('phantom_menace', 'star_wars', 'Phantom Menace', '2015-07-12');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('attack_of_the_clones', 'star_wars', 'Attack of the Clones', '2015-07-18');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('revenge_of_the_sith', 'star_wars', 'Revenge of the Sith', '2015-07-19');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('caravan_of_courage', 'star_wars', 'Caravan of Courage', '2015-07-25');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('battle_for_endor', 'star_wars', 'Battle for Endor', '2015-07-25');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_christmas_special', 'star_wars', 'A Christmas Special', '2015-07-25');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_force_awakens', 'star_wars', 'The Force Awakens', '2015-12-18');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('rogue_one', 'star_wars', 'Rouge One', '2016-12-16');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_last_jedi', 'star_wars', 'The Last Jedi', '2017-12-09');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('solo', 'star_wars', 'Solo: A Star Wars Story', '2019-06-08');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_rise_of_skywalker', 'star_wars', 'The Rise of Skywalker', '2019-12-20');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('clone_wars_animated', 'star_wars', 'Clone Wars (Animated)', '2016-03-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spark_of_rebellion', 'star_wars', 'Spark of Rebellion', '2016-03-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_siege_of_lothal', 'star_wars', 'The Siege of Lothal', '2016-03-01');
 
 /* Bourne */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_identity', 'bourne', 'Bourne Identity', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_supremacy', 'bourne', 'Bourne Supremacy', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_ultimatum', 'bourne', 'Bourne Ultimatum', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_legacy', 'bourne', 'Bourne Legacy', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jason_bourne', 'bourne', 'Jason Bourne', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_identity', 'bourne', 'Bourne Identity', '2015-08-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_supremacy', 'bourne', 'Bourne Supremacy', '2015-08-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_ultimatum', 'bourne', 'Bourne Ultimatum', '2015-08-08');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('bourne_legacy', 'bourne', 'Bourne Legacy', '2015-08-09');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jason_bourne', 'bourne', 'Jason Bourne', '2016-07-29');
 
 /* Saw */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw', 'saw', 'Saw', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_ii', 'saw', 'Saw II', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_iii', 'saw', 'Saw III', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_iv', 'saw', 'Saw IV', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_v', 'saw', 'Saw V', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_vi', 'saw', 'Saw VI', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_the_final_chapter', 'saw', 'Saw 3D', '2015-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_legacy', 'saw', 'Jigsaw', '2015-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw', 'saw', 'Saw', '2015-10-03');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_ii', 'saw', 'Saw II', '2015-10-04');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_iii', 'saw', 'Saw III', '2015-10-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_iv', 'saw', 'Saw IV', '2015-10-17');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_v', 'saw', 'Saw V', '2015-10-18');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_vi', 'saw', 'Saw VI', '2015-10-24');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_the_final_chapter', 'saw', 'Saw 3D', '2015-10-25');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('saw_legacy', 'saw', 'Jigsaw', '2017-10-27');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spiral', 'saw', 'Spiral', '2022-09-01');
 
 /* Alien */
