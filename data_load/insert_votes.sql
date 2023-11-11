@@ -581,8 +581,8 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'robocop_3', 'BAD',
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 -- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 -- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 -- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'GOOD', person_id FROM people WHERE person_username = 'nick';
