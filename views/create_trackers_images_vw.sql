@@ -6,7 +6,7 @@ AS
         , m.movie_name
         , t.tracker_text
         , mt.tracker_count
-        , i_vw.image_path
+        , IFNULL(i_vw.image_path, "") image_path
     FROM movies m
     INNER JOIN movie_trackers mt ON
         m.movie_name = mt.movie_name
