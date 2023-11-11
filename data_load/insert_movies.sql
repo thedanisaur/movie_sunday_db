@@ -79,14 +79,14 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jurassic_world_dominion', 'jurassic_park', 'Jurassic World Dominion', '2022-08-20');
 
 /* American Pie */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie', 'american_pie', 'American Pie', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_2', 'american_pie', 'American Pie 2', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_wedding', 'american_pie', 'American Wedding', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_reunion', 'american_pie', 'American Reunion', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_band_camp', 'american_pie', 'American Pie: Band Camp', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_the_naked_mile', 'american_pie', 'American Pie: The Naked Mile', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_beta_house', 'american_pie', 'American Pie: Beta House', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_the_book_of_love', 'american_pie', 'American Pie: The Book of Love', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie', 'american_pie', 'American Pie', '2016-05-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_2', 'american_pie', 'American Pie 2', '2016-05-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_wedding', 'american_pie', 'American Wedding', '2016-05-03');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_reunion', 'american_pie', 'American Reunion', '2016-05-04');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_band_camp', 'american_pie', 'American Pie: Band Camp', '2016-05-05');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_the_naked_mile', 'american_pie', 'American Pie: The Naked Mile', '2016-05-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_beta_house', 'american_pie', 'American Pie: Beta House', '2016-05-16');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_the_book_of_love', 'american_pie', 'American Pie: The Book of Love', '2016-05-17');
 
 /* James Bond */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dr_no', 'james_bond', 'Dr. No', '2016-01-01');
