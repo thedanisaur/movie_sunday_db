@@ -28,6 +28,12 @@ mysql -u root movie_sunday < ./db_destroy.sql
 ./db_rebuild
 ```
 
+## Backup db
+
+```
+mysqldump movie_sunday --result-file=dump.sql --user root --password
+```
+
 ## AWS MySql install
 centos
 ```
