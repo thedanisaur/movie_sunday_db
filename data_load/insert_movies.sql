@@ -66,9 +66,9 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 
 /* The Matrix */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix', 'the_matrix', 'The Matrix', '2016-03-05');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_reloaded', 'the_matrix', 'The Matrix: Reloaded', '2016-03-06');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_revolution', 'the_matrix', 'The Matrix: Revolution', '2016-03-12');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_resurrections', 'the_matrix', 'The Matrix: Resurrections', '2022-05-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_reloaded', 'the_matrix', 'The Matrix Reloaded', '2016-03-06');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_revolutions', 'the_matrix', 'The Matrix Revolutions', '2016-03-12');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_matrix_resurrections', 'the_matrix', 'The Matrix Resurrections', '2022-05-15');
 
 /* Jurassic Park */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jurassic_park', 'jurassic_park', 'Jurassic Park', '2016-04-09');
@@ -340,3 +340,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_2', 'men_in_black', 'Men in Black II', '2023-11-05');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_3', 'men_in_black', 'Men in Black 3', '2023-11-11');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_international', 'men_in_black', 'Men in Black: International', '2023-11-12');
+
+/* Goon */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goon', 'goon', 'Goon', '2023-11-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goon_2', 'goon', 'Goon: Last of the Enforcers', '2023-11-08');

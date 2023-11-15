@@ -580,9 +580,15 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'robocop_3', 'BAD',
 /* Men in Black */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'BAD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'men_in_black_international', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+
+/* Goon */
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';

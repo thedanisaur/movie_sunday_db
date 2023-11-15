@@ -46,4 +46,5 @@ INSERT INTO series (series_title, series_name, series_created_on, person_id) SEL
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Taken', 'taken', '2023-01-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Top Gun', 'top_gun', '2023-01-01', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Robocop', 'robocop', '2023-01-01', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Men in Black', 'men_in_black', '2023-01-01', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Men in Black', 'men_in_black', '2023-11-01', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Goon', 'goon', '2023-11-07', person_id FROM people WHERE person_username = 'nick';
