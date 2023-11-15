@@ -89,36 +89,36 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('american_pie_the_book_of_love', 'american_pie', 'American Pie: The Book of Love', '2016-05-17');
 
 /* James Bond */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dr_no', 'james_bond', 'Dr. No', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('from_russia_with_love', 'james_bond', 'From Russia With Love', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goldfinger', 'james_bond', 'Goldfinger', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('thunderball', 'james_bond', 'Thunderball', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('you_only_live_twice', 'james_bond', 'You Only Live Twice', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('on_her_majestys_secret_service', 'james_bond', 'On her majesty''s Secret Service', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('diamonds_are_forever', 'james_bond', 'Diamonds are Forever', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('live_and_let_die', 'james_bond', 'Live and Let Die', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('man_with_the_golden_gun', 'james_bond', 'Man with the Golden Gun', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_spy_who_loved_me', 'james_bond', 'The Spy Who Loved Me', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('moonraker', 'james_bond', 'Moonraker', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('for_your_eyes_only', 'james_bond', 'For Your Eye''s Only', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('octopussy', 'james_bond', 'Octopussy', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_view_to_kill', 'james_bond', 'A View to Kill', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_living_daylights', 'james_bond', 'The Living Daylights', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('license_to_kill', 'james_bond', 'License to Kill', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('golden_eye', 'james_bond', 'Golden Eye', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tomorrow_never_dies', 'james_bond', 'Tomorrow Never Dies', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_world_is_not_enough', 'james_bond', 'The World is Not Enough', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_another_day', 'james_bond', 'Die Another Day', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('casino_royale', 'james_bond', 'Casino Royale', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('quantum_of_solace', 'james_bond', 'Quantum of Solace', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('skyfall', 'james_bond', 'Skyfall', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spectre', 'james_bond', 'Spectre', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('no_time_to_die', 'james_bond', 'No Time to Die', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dr_no', 'james_bond', 'Dr. No', '2016-06-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('from_russia_with_love', 'james_bond', 'From Russia With Love', '2016-06-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goldfinger', 'james_bond', 'Goldfinger', '2016-06-03');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('thunderball', 'james_bond', 'Thunderball', '2016-06-04');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('you_only_live_twice', 'james_bond', 'You Only Live Twice', '2016-06-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('on_her_majestys_secret_service', 'james_bond', 'On her majesty''s Secret Service', '2016-06-08');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('diamonds_are_forever', 'james_bond', 'Diamonds are Forever', '2016-06-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('live_and_let_die', 'james_bond', 'Live and Let Die', '2016-06-16');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('man_with_the_golden_gun', 'james_bond', 'Man with the Golden Gun', '2016-06-21');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_spy_who_loved_me', 'james_bond', 'The Spy Who Loved Me', '2016-06-22');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('moonraker', 'james_bond', 'Moonraker', '2016-06-28');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('for_your_eyes_only', 'james_bond', 'For Your Eye''s Only', '2016-06-29');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('octopussy', 'james_bond', 'Octopussy', '2016-07-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_view_to_kill', 'james_bond', 'A View to Kill', '2016-07-11');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_living_daylights', 'james_bond', 'The Living Daylights', '2016-07-24');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('license_to_kill', 'james_bond', 'License to Kill', '2016-08-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('golden_eye', 'james_bond', 'Golden Eye', '2016-08-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tomorrow_never_dies', 'james_bond', 'Tomorrow Never Dies', '2016-08-14');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_world_is_not_enough', 'james_bond', 'The World is Not Enough', '2016-08-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_another_day', 'james_bond', 'Die Another Day', '2016-08-23');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('casino_royale', 'james_bond', 'Casino Royale', '2016-08-24');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('quantum_of_solace', 'james_bond', 'Quantum of Solace', '2016-09-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('skyfall', 'james_bond', 'Skyfall', '2016-09-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spectre', 'james_bond', 'Spectre', '2016-09-10');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('no_time_to_die', 'james_bond', 'No Time to Die', '2021-10-08');
 
 /* Insidious */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious', 'insidious', 'Insidious', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_2', 'insidious', 'Insidious Chapter 2', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_3', 'insidious', 'Insidious Chapter 3', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious', 'insidious', 'Insidious', '2016-10-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_2', 'insidious', 'Insidious Chapter 2', '2016-10-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_3', 'insidious', 'Insidious Chapter 3', '2016-10-09');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_the_last_key', 'insidious', 'Insidious: The Last Key', '2021-01-01');
 
 /* Raid */
@@ -327,13 +327,13 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('taken_3', 'taken', 'Taken 3', '2023-01-01');
 
 /* Top Gun */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun', 'top_gun', 'Top Gun', '2023-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun_maverick', 'top_gun', 'Top Gun: Maverick', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun', 'top_gun', 'Top Gun', '2023-07-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('top_gun_maverick', 'top_gun', 'Top Gun: Maverick', '2023-07-28');
 
 /* Robocop */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_1', 'robocop', 'RoboCop', '2023-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_2', 'robocop', 'RoboCop 2', '2023-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_3', 'robocop', 'RoboCop 3', '2023-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_1', 'robocop', 'RoboCop', '2023-08-05');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_2', 'robocop', 'RoboCop 2', '2023-08-11');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('robocop_3', 'robocop', 'RoboCop 3', '2023-08-21');
 
 /* Men in Black */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('men_in_black_1', 'men_in_black', 'Men in Black', '2023-11-04');
