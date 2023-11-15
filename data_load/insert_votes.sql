@@ -412,12 +412,14 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_4', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_5', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_6', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_7', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_2', 'BAD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_4', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_5', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_6', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'mission_impossible_7', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* Scream */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'scream', 'BAD', person_id FROM people WHERE person_username = 'dan';
@@ -469,9 +471,9 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'a_quiet_place_pt2'
 
 /* The Hills Have Eyes */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes', 'GOOD', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes_part_2', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes_2', 'BAD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes', 'GOOD', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes_part_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_hills_have_eyes_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* Hostel */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'hostel', 'GOOD', person_id FROM people WHERE person_username = 'dan';

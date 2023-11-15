@@ -232,12 +232,13 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('peninsula', 'train_to_busan', 'Peninsula', '2020-01-01');
 
 /* Mission Impossible */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_1', 'mission_impossible', 'Mission Impossible', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_2', 'mission_impossible', 'Mission Impossible: II', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_3', 'mission_impossible', 'Mission Impossible: III', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_4', 'mission_impossible', 'Mission Impossible: Ghost Protocal', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_5', 'mission_impossible', 'Mission Impossible: Rogue Nation', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_6', 'mission_impossible', 'Mission Impossible: Fallout', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_1', 'mission_impossible', 'Mission: Impossible', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_2', 'mission_impossible', 'Mission: Impossible II', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_3', 'mission_impossible', 'Mission: Impossible III', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_4', 'mission_impossible', 'Mission: Impossible - Ghost Protocal', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_5', 'mission_impossible', 'Mission: Impossible - Rogue Nation', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_6', 'mission_impossible', 'Mission: Impossible - Fallout', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_7', 'mission_impossible', 'Mission: Impossible - Dead Reckoning Part One', '2023-07-12');
 
 /* Scream */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('scream', 'scream', 'Scream', '2020-01-01');
@@ -260,22 +261,22 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 
 /* V/H/S */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('vhs', 'vhs', 'V/H/S', '2021-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('vhs_viral', 'vhs', 'V/H/S: Viral', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('vhs_viral', 'vhs', 'V/H/S Viral', '2021-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('vhs94', 'vhs', 'V/H/S/94', '2021-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('vhs99', 'vhs', 'V/H/S/99', '2021-01-01');
 
 /* A Quiet Place */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_quiet_place', 'a_quiet_place', 'A Quiet Place', '2021-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_quiet_place_pt2', 'a_quiet_place', 'A Quiet Place part 2', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_quiet_place_pt2', 'a_quiet_place', 'A Quiet Place Part II', '2021-01-01');
 
 /* The Hills Have Eyes */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_hills_have_eyes', 'hills_have_eyes', 'The Hills Have Eyes', '2021-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_hills_have_eyes_part_2', 'hills_have_eyes', 'The Hills Have Eyes Part 2', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_hills_have_eyes_2', 'hills_have_eyes', 'The Hills Have Eyes 2', '2021-01-01');
 
 /* Hostel */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hostel', 'hostel', 'Hostel', '2021-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hostel_2', 'hostel', 'Hostel II', '2021-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hostel_3', 'hostel', 'Hostel III', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hostel_2', 'hostel', 'Hostel: Part II', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hostel_3', 'hostel', 'Hostel: Part III', '2021-01-01');
 
 /* The Purge */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_purge', 'purge', 'The Purge', '2021-01-01');
@@ -289,7 +290,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('super_troopers', 'broken_lizard', 'Super Troopers', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('club_dread', 'broken_lizard', 'Club Dread', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('beerfest', 'broken_lizard', 'Beerfest', '2022-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('slamin_salmon', 'broken_lizard', 'Slammin'' Salmon', '2022-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('slamin_salmon', 'broken_lizard', 'The Slammin'' Salmon', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('freeloaders', 'broken_lizard', 'Freeloaders', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('super_troopers_2', 'broken_lizard', 'Super Troopers 2', '2022-01-01');
 
