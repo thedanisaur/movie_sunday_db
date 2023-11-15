@@ -119,15 +119,15 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious', 'insidious', 'Insidious', '2016-10-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_2', 'insidious', 'Insidious Chapter 2', '2016-10-02');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_chapter_3', 'insidious', 'Insidious Chapter 3', '2016-10-09');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_the_last_key', 'insidious', 'Insidious: The Last Key', '2021-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('insidious_the_last_key', 'insidious', 'Insidious: The Last Key', '2021-01-05');
 
 /* Raid */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_raid', 'the_raid', 'The Raid', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_raid_2', 'the_raid', 'The Raid 2', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_raid', 'the_raid', 'The Raid', '2016-10-28');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_raid_2', 'the_raid', 'The Raid 2', '2016-10-29');
 
 /* Gantz */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('gantz', 'gantz', 'Gantz', '2016-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('gantz_perfect_answer', 'gantz', 'Gantz: Perfect Answer', '2016-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('gantz', 'gantz', 'Gantz', '2016-11-06');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('gantz_perfect_answer', 'gantz', 'Gantz: Perfect Answer', '2016-11-07');
 
 /* Riddick */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('pitch_black', 'riddick', 'Pitch Black', '2017-01-01');
