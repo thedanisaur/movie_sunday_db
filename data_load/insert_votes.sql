@@ -596,12 +596,12 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon_2', 'GOOD', p
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'goon_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* Cube */
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_2', 'BAD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_2', 'BAD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_3', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_1', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_2', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_2', 'BAD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_3', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cube_3', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* Pacific Rim */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'pacific_rim_1', 'GOOD', person_id FROM people WHERE person_username = 'dan';
@@ -616,5 +616,43 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dawn_of_the_planet
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dawn_of_the_planet_of_the_apes', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'war_for_the_planet_of_the_apes', 'BAD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'war_for_the_planet_of_the_apes', 'GOOD', person_id FROM people WHERE person_username = 'nick';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kingdom_of_the_planet_of_the_apes', 'GOOD', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kingdom_of_the_planet_of_the_apes', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kingdom_of_the_planet_of_the_apes', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kingdom_of_the_planet_of_the_apes', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+
+/* Resolutionless */
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'resolution', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'resolution', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'endless', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'endless', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'syncrhonic', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'syncrhonic', 'BAD', person_id FROM people WHERE person_username = 'nick';
+
+/* Transformers*/
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_revenge_of_the_fallen', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_revenge_of_the_fallen', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_dark_of_the_moon', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_dark_of_the_moon', 'BAD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_age_of_extinction', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_age_of_extinction', 'BAD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_the_last_knight', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_the_last_knight', 'BAD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_rise_of_the_beasts', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'transformers_rise_of_the_beasts', 'BAD', person_id FROM people WHERE person_username = 'nick';
+
+/* Lethal Weapon */
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_two', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_two', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_three', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_three', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_four', 'BAD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'lethal_weapon_four', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+
+/* Dune */
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dune_part_one', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dune_part_one', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dune_part_two', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'dune_part_two', 'GOOD', person_id FROM people WHERE person_username = 'nick';

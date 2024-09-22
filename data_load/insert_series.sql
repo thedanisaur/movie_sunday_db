@@ -42,16 +42,16 @@ INSERT INTO series (series_title, series_name, series_created_on, person_id) SEL
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Tremors', 'tremors', '2022-07-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Starship Troopers', 'starship_troopers', '2022-11-01', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Terrifier', 'terrifier', '2022-12-01', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'IT', 'it', '2022-12-01', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'IT', 'it', '2022-12-15', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Taken', 'taken', '2023-01-01', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Top Gun', 'top_gun', '2023-01-01', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Robocop', 'robocop', '2023-01-01', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Top Gun', 'top_gun', '2023-05-01', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Robocop', 'robocop', '2023-07-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Men in Black', 'men_in_black', '2023-11-01', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Goon', 'goon', '2023-11-07', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Cube', 'cube', '2023-11-15', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Pacific Rim', 'pacific_rim', '2023-12-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Planet of the Apes', 'planet_of_the_apes', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
-
--- INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Resolutionless', 'resolutionless', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
--- INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
-
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Resolutionless', 'resolutionless', '2024-01-15', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Transformers', 'transformers', '2024-02-23', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Lethal Weapon', 'lethal_weapon', '2024-08-06', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2023-10-15', person_id FROM people WHERE person_username = 'nick';
