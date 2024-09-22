@@ -48,3 +48,10 @@ INSERT INTO series (series_title, series_name, series_created_on, person_id) SEL
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Robocop', 'robocop', '2023-01-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Men in Black', 'men_in_black', '2023-11-01', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Goon', 'goon', '2023-11-07', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Cube', 'cube', '2023-11-15', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Pacific Rim', 'pacific_rim', '2023-12-01', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Planet of the Apes', 'planet_of_the_apes', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
+
+-- INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Resolutionless', 'resolutionless', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
+-- INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2024-01-01', person_id FROM people WHERE person_username = 'dan';
+

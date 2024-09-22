@@ -12,7 +12,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('rogue_one', 'star_wars', 'Rouge One', '2016-12-16');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_last_jedi', 'star_wars', 'The Last Jedi', '2017-12-09');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('solo', 'star_wars', 'Solo: A Star Wars Story', '2019-06-08');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_rise_of_skywalker', 'star_wars', 'The Rise of Skywalker', '2019-12-20');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_rise_of_skywalker', 'star_wars', 'Star Wars: Episode IX - The Rise of Skywalker', '2019-12-20');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('clone_wars_animated', 'star_wars', 'Clone Wars (Animated)', '2016-03-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('spark_of_rebellion', 'star_wars', 'Spark of Rebellion', '2016-03-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_siege_of_lothal', 'star_wars', 'The Siege of Lothal', '2016-03-01');
@@ -235,7 +235,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_1', 'mission_impossible', 'Mission: Impossible', '2020-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_2', 'mission_impossible', 'Mission: Impossible II', '2020-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_3', 'mission_impossible', 'Mission: Impossible III', '2020-01-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_4', 'mission_impossible', 'Mission: Impossible - Ghost Protocal', '2020-01-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_4', 'mission_impossible', 'Mission: Impossible - Ghost Protocol', '2020-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_5', 'mission_impossible', 'Mission: Impossible - Rogue Nation', '2020-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_6', 'mission_impossible', 'Mission: Impossible - Fallout', '2022-01-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('mission_impossible_7', 'mission_impossible', 'Mission: Impossible - Dead Reckoning Part One', '2023-07-12');
@@ -345,3 +345,18 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 /* Goon */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goon', 'goon', 'Goon', '2023-11-07');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('goon_2', 'goon', 'Goon: Last of the Enforcers', '2023-11-08');
+
+/* Cube */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('cube_1', 'cube', 'Cube', '2023-11-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('cube_2', 'cube', 'Cube²: Hypercube', '2023-11-16');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('cube_3', 'cube', 'Cube Zero', '2023-11-17');
+
+/* Pacific Rim */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('pacific_rim_1', 'pacific_rim', 'Pacific Rim', '2023-12-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('pacific_rim_2', 'pacific_rim', 'Pacific Rim: Uprising', '2023-12-07');
+
+/* Planet of the Apes */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('rise_of_the_planet_of_the_apes', 'planet_of_the_apes', 'Rise of the Planet of the Apes', '2024-01-14');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dawn_of_the_planet_of_the_apes', 'planet_of_the_apes', 'Dawn of the Planet of the Apes', '2024-01-21');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('war_for_the_planet_of_the_apes', 'planet_of_the_apes', 'War for the Planet of the Apes', '2024-02-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('kingdom_of_the_planet_of_the_apes', 'planet_of_the_apes', 'Kingdom of the Planet of the Apes', '2024-02-14');
