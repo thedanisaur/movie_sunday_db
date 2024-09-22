@@ -54,4 +54,4 @@ INSERT INTO series (series_title, series_name, series_created_on, person_id) SEL
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Resolutionless', 'resolutionless', '2024-01-15', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Transformers', 'transformers', '2024-02-23', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Lethal Weapon', 'lethal_weapon', '2024-08-06', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2023-10-15', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2024-10-15', person_id FROM people WHERE person_username = 'nick';
