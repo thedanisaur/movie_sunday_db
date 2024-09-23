@@ -1,11 +1,14 @@
-DROP VIEW IF EXISTS trackers_vw;
-DROP VIEW IF EXISTS rating_vw;
-DROP VIEW IF EXISTS bad_votes_vw;
-DROP VIEW IF EXISTS good_votes_vw;
-DROP VIEW IF EXISTS movies_votes_vw;
-DROP VIEW IF EXISTS movies_in_series_vw;
-DROP VIEW IF EXISTS series_image_vw;
-DROP VIEW IF EXISTS trackers_main_vw;
+DROP VIEW IF EXISTS create_trackers_main_vw;
+DROP VIEW IF EXISTS create_trackers_images_vw;
+DROP VIEW IF EXISTS create_dn_movies_votes_vw;
+DROP VIEW IF EXISTS create_trackers_vw;
+DROP VIEW IF EXISTS create_rating_vw;
+DROP VIEW IF EXISTS create_bad_votes_vw;
+DROP VIEW IF EXISTS create_good_votes_vw;
+DROP VIEW IF EXISTS create_movies_votes_vw;
+DROP VIEW IF EXISTS create_movies_in_series_vw;
+DROP VIEW IF EXISTS create_series_image_vw;
+DROP VIEW IF EXISTS create_movies_images_vw;
 
 DROP TABLE IF EXISTS movies_images;
 DROP TABLE IF EXISTS images;

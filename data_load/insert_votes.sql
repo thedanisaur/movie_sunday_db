@@ -123,8 +123,8 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix', 'GOOD
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_reloaded', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_reloaded', 'GOOD', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_revolution', 'BAD', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_revolution', 'BAD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_revolutions', 'BAD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_revolutions', 'BAD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_resurrections', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'the_matrix_resurrections', 'BAD', person_id FROM people WHERE person_username = 'nick';
 

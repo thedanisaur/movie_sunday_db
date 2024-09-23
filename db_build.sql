@@ -18,4 +18,5 @@ source ./views/create_bad_votes_vw.sql
 source ./views/create_rating_vw.sql
 source ./views/create_trackers_vw.sql
 source ./views/create_dn_movies_votes_vw.sql
+source ./views/create_trackers_images_vw.sql
 source ./views/create_trackers_main_vw.sql

@@ -362,24 +362,24 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('kingdom_of_the_planet_of_the_apes', 'planet_of_the_apes', 'Kingdom of the Planet of the Apes', '2024-02-14');
 
 /* Resolutionless */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('resolution', 'resolutionless', 'Resolution', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('endless', 'resolutionless', 'Endless', '2023-11-08');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('syncrhonic', 'resolutionless', 'Synchronic', '2023-11-08');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('resolution', 'resolutionless', 'Resolution', '2024-02-23');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('endless', 'resolutionless', 'Endless', '2024-02-24');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('syncrhonic', 'resolutionless', 'Synchronic', '2024-09-08');
 
 /* Transformers */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers', 'transformers', 'Transformers', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_revenge_of_the_fallen', 'transformers', 'Transformers: Revenge of the Fallen', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_dark_of_the_moon', 'transformers', 'Transformers: Dark of the Moon', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_age_of_extinction', 'transformers', 'Transformers: Age of Extinction', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_the_last_knight', 'transformers', 'Transformers: The Last Knight', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_rise_of_the_beasts', 'transformers', 'Transformers: Rise of the Beasts', '2023-11-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers', 'transformers', 'Transformers', '2024-03-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_revenge_of_the_fallen', 'transformers', 'Transformers: Revenge of the Fallen', '2024-03-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_dark_of_the_moon', 'transformers', 'Transformers: Dark of the Moon', '2024-03-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_age_of_extinction', 'transformers', 'Transformers: Age of Extinction', '2024-03-11');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_the_last_knight', 'transformers', 'Transformers: The Last Knight', '2024-03-23');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('transformers_rise_of_the_beasts', 'transformers', 'Transformers: Rise of the Beasts', '2024-03-24');
 
 /* Lethal Weapon */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon', 'lethal_weapon', 'Lethal Weapon', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_two', 'lethal_weapon', 'Lethal Weapon 2', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_three', 'lethal_weapon', 'Lethal Weapon 3', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_four', 'lethal_weapon', 'Lethal Weapon 4', '2023-11-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon', 'lethal_weapon', 'Lethal Weapon', '2024-09-07');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_two', 'lethal_weapon', 'Lethal Weapon 2', '2024-09-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_three', 'lethal_weapon', 'Lethal Weapon 3', '2024-09-23');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lethal_weapon_four', 'lethal_weapon', 'Lethal Weapon 4', '2024-09-25');
 
 /* Dune */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dune_part_one', 'dune', 'Dune: Part One', '2023-11-07');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dune_part_two', 'dune', 'Dune: Part Two', '2023-11-08');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dune_part_one', 'dune', 'Dune: Part One', '2024-10-26');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('dune_part_two', 'dune', 'Dune: Part Two', '2024-10-27');
