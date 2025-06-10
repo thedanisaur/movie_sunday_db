@@ -1,3 +1,4 @@
+DROP VIEW IF EXISTS create_movies_trackers_vw;
 DROP VIEW IF EXISTS create_trackers_main_vw;
 DROP VIEW IF EXISTS create_trackers_images_vw;
 DROP VIEW IF EXISTS create_dn_movies_votes_vw;

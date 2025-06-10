@@ -1,6 +1,6 @@
-DROP VIEW IF EXISTS movie_trackers_vw;
+DROP VIEW IF EXISTS movies_trackers_vw;
 
-CREATE OR REPLACE VIEW movie_trackers_vw
+CREATE OR REPLACE VIEW movies_trackers_vw
 AS
   SELECT  BIN_TO_UUID(mt.movie_tracker_id) AS movie_tracker_id
         , mt.movie_name
