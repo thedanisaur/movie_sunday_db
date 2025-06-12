@@ -142,9 +142,9 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jackie_brown', 'tarantino', 'Jackie Brown', '2017-03-02');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('planet_terror', 'tarantino', 'Planet Terror', '2017-03-02');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('death_proof', 'tarantino', 'Death Proof', '2017-03-02');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('inglorious_bastards', 'tarantino', 'Inglorious Bastards', '2017-03-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('inglorious_basterds', 'tarantino', 'Inglourious Basterds', '2017-03-02');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('django_unchained', 'tarantino', 'Django Unchained', '2017-03-02');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('heatful_eight', 'tarantino', 'Heatful Eight', '2017-03-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('hateful_eight', 'tarantino', 'The Hateful Eight', '2017-03-02');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('once_upon_a_time_in_hollywood', 'tarantino', 'Once Upon a Time... in Hollywood', '2021-01-01');
 
 /* The Dark Knight */
@@ -153,8 +153,8 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_dark_knight_rises', 'the_dark_knight', 'The Dark Knight Rises', '2017-04-02');
 
 /* Dark Knight Returns */
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_dark_knight_returns_part_1', 'dark_knight_returns', 'The Dark Knight Returns: Part 1', '2017-05-01');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_dark_knight_returns_part_2', 'dark_knight_returns', 'The Dark Knight Returns: Part 2', '2017-05-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_dark_knight_returns_part_1', 'dark_knight_returns', 'Batman: The Dark Knight Returns, Part 1', '2017-05-01');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('the_dark_knight_returns_part_2', 'dark_knight_returns', 'Batman: The Dark Knight Returns, Part 2', '2017-05-02');
 
 /* Drunken Master */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('drunken_master', 'drunken_master', 'Drunken Master', '2017-06-01');
@@ -188,7 +188,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 /* Die Hard */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_hard', 'die_hard', 'Die Hard', '2018-02-15');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_hard_2', 'die_hard', 'Die Hard 2', '2018-02-16');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_hard_with_a_vengence', 'die_hard', 'Die Hard with a Vengence', '2018-02-16');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('die_hard_with_a_vengeance', 'die_hard', 'Die Hard with a Vengeance', '2018-02-16');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('live_free_or_die_hard', 'die_hard', 'Live Free or Die Hard', '2018-02-16');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('a_good_day_to_die_hard', 'die_hard', 'A Good Day to Die Hard', '2018-02-16');
 

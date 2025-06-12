@@ -128,3 +128,5 @@ INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VA
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('2041ED6B4C954643A8C4CE3D03B32769'), 'img/star_wars/spark_of_rebellion.jpg', '2025-06-08', NULL);
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('0D0C0FD561D04736BEFD61BBF94A0C81'), 'img/star_wars/the_siege_of_lothal.jpg', '2025-06-08', NULL);
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('3D23E302426E4074AFF82736B1CEA83C'), 'img/alien/aliens_3.jpg', '2025-06-09', NULL);
+INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('D3946CD3BA71401E96FBA9B27FB292E3'), 'img/fast_furious/fast_furious_presents_hobbs_shaw.jpg', '2025-06-10', NULL);
+INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('ADE4DE7AB9964ACD96604A9DA4F12CAD'), 'img/fast_furious/fast_furious_6.jpg', '2025-06-10', NULL);

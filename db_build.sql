@@ -8,6 +8,7 @@ source ./tables/create_trackers.sql
 source ./tables/create_movie_trackers.sql
 source ./tables/create_images.sql
 source ./tables/create_movies_images.sql
+source ./tables/create_sessions.sql
 -- Views
 source ./views/create_movies_images_vw.sql
 source ./views/create_series_image_vw.sql

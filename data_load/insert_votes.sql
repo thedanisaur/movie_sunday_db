@@ -251,9 +251,9 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kill_bill_vol_2', 
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'jackie_brown', 'BAD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'planet_terror', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'death_proof', 'GOOD', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'inglorious_bastards', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'inglorious_basterds', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'django_unchained', 'GOOD', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'heatful_eight', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'hateful_eight', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'once_upon_a_time_in_hollywood', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'reservoir_dogs', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'pulp_fiction', 'GOOD', person_id FROM people WHERE person_username = 'nick';
@@ -262,9 +262,9 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'kill_bill_vol_2', 
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'jackie_brown', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'planet_terror', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'death_proof', 'GOOD', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'inglorious_bastards', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'inglorious_basterds', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'django_unchained', 'GOOD', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'heatful_eight', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'hateful_eight', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'once_upon_a_time_in_hollywood', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 
 /* The Dark Knight */
@@ -330,12 +330,12 @@ INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'cloverfield_parado
 /* Die Hard */
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_2', 'GOOD', person_id FROM people WHERE person_username = 'dan';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_with_a_vengence', 'GOOD', person_id FROM people WHERE person_username = 'dan';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_with_a_vengeance', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'live_free_or_die_hard', 'GOOD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'a_good_day_to_die_hard', 'BAD', person_id FROM people WHERE person_username = 'dan';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_2', 'GOOD', person_id FROM people WHERE person_username = 'nick';
-INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_with_a_vengence', 'GOOD', person_id FROM people WHERE person_username = 'nick';
+INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'die_hard_with_a_vengeance', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'live_free_or_die_hard', 'GOOD', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO votes (movie_name, vote_value, person_id) SELECT 'a_good_day_to_die_hard', 'BAD', person_id FROM people WHERE person_username = 'nick';
 
