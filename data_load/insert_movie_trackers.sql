@@ -318,7 +318,7 @@ FROM (
     (
         SELECT  tracker_id
         FROM    trackers
-        WHERE   tracker_text = 'Eye gouges'
+        WHERE   tracker_text = 'Eye Gouges'
     ) t
 ;
 
@@ -336,7 +336,7 @@ FROM (
     (
         SELECT  tracker_id
         FROM    trackers
-        WHERE   tracker_text = 'Eye gouges'
+        WHERE   tracker_text = 'Eye Gouges'
     ) t
 ;
 
