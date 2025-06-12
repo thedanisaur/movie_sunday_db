@@ -57,4 +57,3 @@ INSERT INTO series (series_title, series_name, series_created_on, person_id) SEL
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Dune', 'dune', '2024-10-15', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Tron', 'tron', '2025-03-01', person_id FROM people WHERE person_username = 'nick';
 INSERT INTO series (series_title, series_name, series_created_on, person_id) SELECT 'Lupin Jigen', 'lupin_jigen', '2025-03-01', person_id FROM people WHERE person_username = 'dan';
-

@@ -36,7 +36,7 @@ mysql -u root movie_sunday < ./db_destroy.sql
 ## Teardown and Setup dev environment
 
 ```
-./db_rebuild
+./db_rebuild.sh
 ```
 
 ## Backup db

@@ -7,7 +7,6 @@ CREATE TABLE sessions (
 );
 
 DROP TRIGGER IF EXISTS bi_sessions;
-DELIMITER $$
 CREATE TRIGGER bi_sessions BEFORE INSERT ON sessions FOR EACH ROW
 BEGIN
     SET NEW.person_username = LOWER(NEW.person_username);
@@ -15,4 +14,3 @@ BEGIN
         SET NEW.session_id = UUID_TO_BIN(UUID());
     END IF;
 END;
-$$

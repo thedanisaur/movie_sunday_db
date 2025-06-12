@@ -317,7 +317,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 /* Terrifier */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier', 'terrifier', 'Terrifier', '2022-12-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier_2', 'terrifier', 'Terrifier 2', '2022-12-02');
-INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier_3', 'terrifier', 'Terrifier 2', '2022-12-02');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('terrifier_3', 'terrifier', 'Terrifier 3', '2022-12-02');
 
 /* IT */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('it_chapter_1', 'it', 'It', '2023-01-01');
@@ -388,3 +388,7 @@ INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALU
 /* Tron */
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tron', 'tron', 'Tron', '2025-05-01');
 INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('tron_legacy', 'tron', 'Tron: Legacy', '2025-05-03');
+
+/* Lupin Jigen */
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('lupin_the_3rd', 'lupin_jigen', 'Lupin the 3rd', '2025-06-15');
+INSERT INTO movies (movie_name, series_name, movie_title, movie_created_on) VALUES ('jigen_daisuke', 'lupin_jigen', 'Jigen Daisuke', '2025-06-16');
