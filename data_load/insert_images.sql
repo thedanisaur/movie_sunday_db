@@ -286,4 +286,4 @@ INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VA
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('CD4311FB35A6446CAF730E79409915D3'), 'img/terrifier/terrifier_3.jpg', '2025-06-11', NULL);
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('D5FE81ECB7544FAEB9B25525BFC7F85A'), 'img/alien/alien_resurrection.jpg', '2025-06-12', NULL);
 INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('C11ECE97B5254A2990B59BFE7A8F2677'), 'img/lupin_jigen/jigen_daisuke.jpg', '2025-06-12', NULL);
-INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('D5FE81ECB7544FAEB9B25525BFC7F85A'), 'img/alien/alien_resurrection.jpg', '2025-06-12', NULL);
+INSERT INTO images (image_id, image_path, image_created_on, image_updated_on) VALUES (UNHEX('B19F9D9ABD9C424986DA457669701513'), 'img/lupin_jigen/lupin_the_3rd.jpg', '2025-06-12', NULL); 
